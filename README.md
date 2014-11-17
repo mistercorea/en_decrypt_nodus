@@ -2,6 +2,12 @@ This will help people who are trying to use nodus and trying to use php website 
 
 It will generate autologin URL for user.
 
+REQUIREMENT
+
+mcrypt must be install on php library
+
+HOW TO USE IT
+
 Import the class then
 
 $nodus_page = new nodus_clinet;
